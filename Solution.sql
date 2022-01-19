@@ -9,8 +9,8 @@ ENGLISH:
 
 --Code the query scenarios by using the dvdrental example datatable.
 
---Query all of film table that has distinct replacement_cost value.
---How many rows have distinct replacement_cost value at film data table ?
+--Query all of the film table that has distinct replacement_cost value.
+--How many rows have distinct replacement_cost value at the film data table ?
 --How many rows of the film data table has a title column value that starts with character 'T' and has a rating column value 'G' ?
 --How many rows of the country data table has a country name that consists of exactly 5 characters ?
 --How many rows of the city data table has a city name that ends with either character 'R' or 'r' ?
